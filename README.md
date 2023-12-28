@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**keiravartegven/keiravartegven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Образование:
+  - МЭИ (Бакалавр): 2008 - Электроэнергетика;
+  - МЭИ (Инженер-менеджер): 2010 - Менеджмент организации;
+  - SkillFactory: 2023 - курс "Data Scientist с нуля до PRO"
 
-Here are some ideas to get you started:
+### 📚 Проекты 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Кликни [сюда](https://github.com/keiravartegven/sf_ds) чтобы посмотреть мои проекты
+
+### 💡 Основные компетенции 💡
+- Инструменты: 
+- Skills: 
+    * 
+
+### 🙌🏻 Свяжись со мной
+- [Telegram](t.me/keiravartegven)
