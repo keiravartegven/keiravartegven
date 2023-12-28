@@ -16,4 +16,4 @@
     * 
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram](t.me/keiravartegven)
+- [Telegram](https://t.me/keiravartegven)
